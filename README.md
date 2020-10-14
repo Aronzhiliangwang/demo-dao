@@ -25,3 +25,4 @@ parent模块【evan-parent】父级依赖[仓库地址](https://github.com/Aronz
 
 接下来就是设置主项目的模块设置了，把项目路径下的3个模块分别导入即可（git submodule直接将三个模块clone到主项目的根路径即可也最好），一切大吉
 
+统一开发的项目演示demo[仓库](https://github.com/Aronzhiliangwang/demo-test)
