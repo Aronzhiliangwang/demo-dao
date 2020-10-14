@@ -11,6 +11,7 @@
         <artifactId>evan-parent</artifactId>
         <groupId>top.misspro</groupId>
         <version>1.0-SNAPSHOT</version>
+        <relativePath/>
     </parent>
 
     <dependencies>
